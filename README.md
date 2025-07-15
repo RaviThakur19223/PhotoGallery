@@ -20,5 +20,5 @@ A beautifully designed and responsive photo gallery website to showcase stunning
 - HTML5
 - CSS3 (including custom animations)
 - JavaScript (Vanilla)
-- Tailwind CSS (if you used it)
+- Tailwind CSS
 - [Flaticon](https://www.flaticon.com/) for icons
